@@ -1,0 +1,12 @@
+site_name: My Docs
+theme:
+  logo: 'images/wizeline-logo.png'
+  name: material
+  palette:
+      primary: 'white'
+      accent: 'indigo'
+nav:
+    - Home: 'index.md'
+    - My new doc: 'mydoc.md'
+    - Overview:
+         - What is: 'what_is.md'
