@@ -10,3 +10,4 @@ nav:
     - My new doc: 'mydoc.md'
     - Overview:
          - What is: 'what_is.md'
+         - Features: 'second-doc.md'
